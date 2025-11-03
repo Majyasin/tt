@@ -5,6 +5,7 @@ import CodeEditor from './components/CodeEditor';
 import Preview from './components/Preview';
 import ChatPanel from './components/ChatPanel';
 import Terminal from './components/Terminal';
+import StatusBar from './components/StatusBar';
 import { useStore } from './stores/useStore';
 import type { FileNode } from './types';
 
@@ -102,6 +103,8 @@ export default App;
       </div>
 
       {terminalOpen && <Terminal />}
+
+      <StatusBar />
     </div>
   );
 }

@@ -1,8 +1,8 @@
-# 🚀 Quick Deployment Guide
+# Quick Deployment Guide
 
 ## Deploy to Vercel (Easiest - 2 minutes)
 
-1. **Push your code to GitHub** (already done ✅)
+1. **Push your code to GitHub** (already done)
 
 2. **Go to [vercel.com](https://vercel.com)**
 
@@ -62,42 +62,42 @@ Your site will be at: `https://majyasin.github.io/tt/`
 
 Your platform includes:
 
-### 🎨 **Beautiful UI** (Charcoal & White)
+### Beautiful UI (Charcoal & White)
 - Clean header with project controls
 - Collapsible file explorer sidebar
 - Split-screen editor and preview
 - AI chat panel on the right
 - Integrated terminal (toggle with button)
 
-### 💻 **Code Editor**
+### Code Editor
 - Monaco editor (same as VS Code)
 - Syntax highlighting for 20+ languages
 - Tab management for multiple files
 - Auto-save functionality
 - Line numbers, minimap, IntelliSense ready
 
-### 📱 **Live Preview**
+### Live Preview
 - Real-time rendering
 - Device switcher (mobile/tablet/desktop)
 - Responsive viewport testing
 - Refresh button
 - Open in new tab option
 
-### 🤖 **AI Assistant**
+### AI Assistant
 - Chat interface for natural language prompts
 - Automatic code generation
 - File creation from AI responses
 - Message history
 - Clear chat function
 
-### 📁 **File System**
+### File System
 - Tree view with folders/files
 - Expand/collapse folders
 - Click to open files
 - Visual file type icons
 - Sample project included
 
-### ⚡ **Terminal**
+### Terminal
 - Command execution
 - Output display
 - Command history
@@ -110,23 +110,23 @@ Your platform includes:
 
 Since you can't see localhost, here's what each section looks like:
 
-### **Header** (Top bar)
+### Header (Top bar)
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│ 🔧 FORGE    My Project    [Run] [Export] [Deploy]          │
+│ [Code2] FORGE    My Project    [Run] [Export] [Deploy]     │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-### **Main Layout**
+### Main Layout
 ```
 ┌──────────┬─────────────────────┬────────────────┬──────────┐
-│   📁     │   </> Code Editor   │   📱 Preview   │   🤖 AI  │
-│  Files   │   ┌──────────────┐  │                │   Chat   │
-│          │   │ App.tsx   ×  │  │  [📱][💻][🖥️]  │          │
-│  ├─ src  │   └──────────────┘  │                │  [Send]  │
-│  │ ├─App │   import React...   │  Live Preview  │          │
-│  │ └─idx │   function App()    │   Content      │  Sparkle │
-│  └─pkg   │   {...code...}      │   Here         │  Icon    │
+│ [Folder] │   </> Code Editor   │   [Monitor]    │ [Sparkle]│
+│  Files   │   ┌──────────────┐  │   Preview      │   AI     │
+│          │   │ App.tsx   ×  │  │                │   Chat   │
+│  ├─ src  │   └──────────────┘  │  [Phone][Tab]  │          │
+│  │ ├─App │   import React...   │  [Desktop]     │  [Send]  │
+│  │ └─idx │   function App()    │   Content      │          │
+│  └─pkg   │   {...code...}      │   Here         │  Clear   │
 └──────────┴─────────────────────┴────────────────┴──────────┘
 ```
 

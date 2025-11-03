@@ -4,11 +4,11 @@
 
 **Forge** is a Lovable/Bolt.new alternative built with world-class design principles. No gradients, no clutter - just pure functionality in charcoal and white.
 
-## 🎯 Philosophy
+## Philosophy
 
 Designed with the precision of Apple, the engineering excellence of NVIDIA, the AI capabilities of Meta, and the scale mindset of Google. Every pixel is intentional. Every interaction is smooth. Every feature is essential.
 
-## ✨ Features
+## Features
 
 ### Core Capabilities
 - **AI-Powered Code Generation** - Describe what you want to build in natural language
@@ -26,7 +26,7 @@ Designed with the precision of Apple, the engineering excellence of NVIDIA, the 
 - **Export to GitHub** - One-click repository creation
 - **One-Click Deploy** - Deploy to Vercel, Netlify instantly
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js 18+
@@ -44,7 +44,7 @@ npm run dev
 
 The application will be available at `http://localhost:5173`
 
-## 🎨 Design System
+## Design System
 
 ### Colors
 - **Charcoal 950**: `#0a0a0a` - Darkest backgrounds
@@ -65,7 +65,7 @@ The application will be available at `http://localhost:5173`
 4. **Accessible** - WCAG 2.1 AA compliant
 5. **Responsive** - Mobile-first design approach
 
-## 🔧 Configuration
+## Configuration
 
 ### Environment Variables
 
@@ -82,7 +82,7 @@ VITE_GITHUB_TOKEN=your_github_token
 
 See `.env.example` for all available options.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 forge/
@@ -99,7 +99,7 @@ forge/
 └── package.json         # Dependencies
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React 18 + TypeScript
 - **Build Tool**: Vite
@@ -108,7 +108,7 @@ forge/
 - **State**: Zustand
 - **Icons**: Lucide React
 
-## 🚢 Deployment
+## Deployment
 
 ```bash
 # Build for production
@@ -118,10 +118,10 @@ npm run build
 npm run preview
 ```
 
-## 📄 License
+## License
 
 MIT License - feel free to use this in your projects
 
 ---
 
-**Made with ⚡ by developers, for developers**
+Made by developers, for developers
